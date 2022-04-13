@@ -8,4 +8,4 @@ When you create the files on your machine please rename that according to the fo
 4) 'Java Script' - for Java Scripts
 5) 'Images' - for images
 
-if you change these codes and push your works please use a new branch. then the leader will review your changes and merge them into the main branch.don't push any changes directly to the main branch.
+if you change these codes and push your works from your local machine please use a new branch. then the leader will review your changes and merge them into the main branch.don't push any changes directly to the main branch.
