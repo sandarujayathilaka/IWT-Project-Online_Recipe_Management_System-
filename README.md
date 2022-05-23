@@ -4,7 +4,7 @@ This is First year second semester IWT WEB Project OF SLIIT (Srilanka Institiute
 ## Project Contribution
 
 
-|   Name | Contribution||
+|   Name | Contributors||
 | :---         |     :---:      |          ---: |
 | Sandaru Jayathilaka  | Full Admin Pannel , Contact us page | Team Leader |
 | Gayan Tharaka     | Nutritionist Dashboard , Home Page  | Team Member  |
