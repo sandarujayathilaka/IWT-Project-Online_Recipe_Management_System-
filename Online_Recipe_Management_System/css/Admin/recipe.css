@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#formdiv{
+    margin-left: 35%;
+    margin-top:100px;
+    background-color: rgb(206, 204, 204);
+    width: 600px;
+    padding: 50px;
+}
+
+.formele{
+
+    width: 350px;
+    padding: 5px;
+    border-radius: 3px;
+    
+}

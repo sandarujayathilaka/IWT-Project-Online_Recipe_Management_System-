@@ -1,0 +1,6 @@
+------Database Configuration------
+
+1) Create the database.(The database name should be name as 'iwt').
+2) import the iwt.sql file (it is located in the database folder) on to above database.
+
+

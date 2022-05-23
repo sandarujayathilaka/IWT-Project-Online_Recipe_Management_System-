@@ -1,0 +1,92 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#search{
+margin-top: 100px;
+margin-left: 650px;
+
+
+}
+
+#message{
+
+margin-top: 10px;
+color: azure;
+text-align: center;
+position: relative;
+
+}
+
+.stable{
+    
+    position: relative;
+    margin: 2% 30% 0% 30%;
+    width:60%;
+    border-collapse: collapse;  
+    border-color: gray;
+    overflow:scroll;
+    
+    
+}
+
+.stable td,th{
+  padding: 20px;  
+  vertical-align: middle; 
+}
+
+.stable th {
+    background-color: rgb(50, 205, 133);
+    top:150px;
+    position: sticky;
+    z-index: 20;
+
+}
+
+.stable tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+#mbox{
+
+    background-color: rgb(237, 35, 35);
+    width: 200px;
+    margin-left: 825px;
+    border-radius: 5px;
+
+}
+
+#bar{
+    width: 500px;
+    padding: 7px;
+    border-radius:5px;
+    text-indent: 5%;
+
+   
+}
+
+#sub{
+
+    background-image:linear-gradient(rgb(16, 16, 203),rgb(32, 143, 211));
+    color: azure;
+    width: 100px;
+    padding: 5px;
+    border-radius: 5px;
+    cursor:pointer;
+    font-size: 15px;
+    font-weight: bold;
+    box-shadow: 0 0 0 2px rgba(0,0,0,.2), 0 5px 8px 0 rgba(0,0,0,.15);
+
+   
+}
+
+#simg{
+
+width: 25px;
+margin-left: 5px;
+margin-top: 5px;
+position: absolute;
+
+}

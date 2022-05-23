@@ -1,0 +1,32 @@
+
+body{
+
+  background-image:linear-gradient(rgb(141, 141, 141),rgb(96, 94, 99));
+
+}
+
+
+
+form {
+
+  border: 3px solid #f1f1f1;
+
+  display: block;
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+  width: 50%;
+
+  background-image: url(https://www.wallpapertip.com/wmimgs/3-36163_dark-blur.jpg);
+
+  color: white;
+
+  border-radius: 14px;
+
+  box-shadow: 0 0 8px  #669999; 
+
+  
+
+}
