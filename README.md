@@ -1,10 +1,10 @@
 # Online_Recipe_Management_System (Y1S2 -SLIIT)
 This is First year second semester IWT WEB Project OF SLIIT (Srilanka Institiute of Information Technology).
 
-## Project Contribution
+## Project Contributors
 
 
-|   Name | Contributors||
+|   Name | Contribution||
 | :---         |     :---:      |          ---: |
 | Sandaru Jayathilaka  | Full Admin Pannel , Contact us page | Team Leader |
 | Gayan Tharaka     | Nutritionist Dashboard , Home Page  | Team Member  |
