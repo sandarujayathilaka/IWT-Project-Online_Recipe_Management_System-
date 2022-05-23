@@ -34,3 +34,7 @@ This website includes server and client-side scripting approaches and performanc
 enhanced by JAVA script, Cascade style sheets, PHP, SQL queries, and HTML and relational 
 databases such as MySQL.
 
+## Preview
+
+![This is an image](./Online_Recipe_Management_System/images/preview.JPG)
+
