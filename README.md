@@ -34,8 +34,3 @@ This website includes server and client-side scripting approaches and performanc
 enhanced by JAVA script, Cascade style sheets, PHP, SQL queries, and HTML and relational 
 databases such as MySQL.
 
-
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
-
-
