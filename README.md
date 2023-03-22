@@ -1,6 +1,8 @@
 # Online_Recipe_Management_System (Y1S2 -SLIIT)
 This is First year second semester IWT WEB Project OF SLIIT (Srilanka Institiute of Information Technology).
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Project Contributors
 
 
